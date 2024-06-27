@@ -1,3 +1,5 @@
+// This file is using websocket to connect and read the data
+
 package main
 
 import (

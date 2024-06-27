@@ -1,3 +1,5 @@
+// This will get the stock price for a stock symbol
+
 package main
 
 import (

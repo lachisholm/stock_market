@@ -1,3 +1,4 @@
+// This is the main code file
 package main
 
 import (

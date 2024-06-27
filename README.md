@@ -33,4 +33,8 @@ The primary purpose of this software is to fetch and display real-time stock dat
 - Integrate user authentication to save user preferences and watchlists.
 - Enhance the UI with more interactive elements and better formatting.
 
-## Contact me Lora Chisholm - loraperrychisholm@gmail.com
+## Contact me
+
+### Lora Chisholm
+
+- loraperrychisholm@gmail.com
